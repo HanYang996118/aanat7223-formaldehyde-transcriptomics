@@ -1,0 +1,11 @@
+GSE23179 affyPLM RLE/NUSE independent output audit
+72/72 unique GSM-matched raw CEL arrays; 31,099 probe sets per metric.
+Composite exploratory flags: 13
+Metric-specific flags: flag_RLE_median 4; flag_RLE_IQR 2; flag_RLE_MAD 3; flag_NUSE_median 6; flag_NUSE_IQR 7; flag_NUSE_MAD 7
+Median of per-array RLE medians: 9.2816298e-05
+Range of per-array RLE medians: -0.0309740925282398 to 0.0466169317705809
+Median of per-array NUSE medians: 0.99923727
+Range of per-array NUSE medians: 0.988874847530811 to 1.05876949090984
+All arrays retained; flags are exploratory manual-review aids, not exclusion criteria.
+QC ZIP bytes: 28827006
+ZIP test: No errors detected.

@@ -1,0 +1,3 @@
+Comparison,N_shared_genes,Spearman_moderated_t,Spearman_signed_log2FC,Direction_agreement_all_genes,Direction_GSE23179_exposed_minus_control,Direction_GSE42394_exposed_minus_control
+Early_2ppm_GSE23179_5d_vs_GSE42394_7d,11176,-0.205808277608141,-0.246600441996607,0.415891195418755,TRUE,TRUE
+Later_2ppm_GSE23179_4w_vs_GSE42394_28d,11176,-0.201684461915989,-0.248980148218353,0.429939155332856,TRUE,TRUE

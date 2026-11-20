@@ -1,0 +1,40 @@
+GSM,Sample_title_GEO,Sample_source_name,Experiment_block,Source_ID_within_block,Biological_replicate_label,Condition,Control_status,Matched_control_condition,Matched_control_GSM
+GSM536403,"HNEC cells incubated with 100µM FA for 2 hours, biological rep1",ES1_HNEC_#1-100FA-2h,ES1,1,1,100uM_2h,Exposed,control_shared,GSM536404
+GSM536401,"HNEC cells incubated with 50µM FA for 2 hours, biological rep1",ES1_HNEC_#1-50FA-2h,ES1,1,1,50uM_2h,Exposed,control_shared,GSM536404
+GSM536402,"HNEC cells incubated with 50µM FA for 4 hours, biological rep1",ES1_HNEC_#1-50FA-4h,ES1,1,1,50uM_4h,Exposed,control_shared,GSM536404
+GSM536404,"HNEC cells control group, biological rep1",ES1_HNEC_#1-Co,ES1,1,1,control_shared,Control,control_shared,GSM536404
+GSM536407,"HNEC cells incubated with 100µM FA for 2 hours, biological rep2",ES1_HNEC_#3-100FA-2h,ES1,3,2,100uM_2h,Exposed,control_shared,GSM536408
+GSM536405,"HNEC cells incubated with 50µM FA for 2 hours, biological rep2",ES1_HNEC_#3-50FA-2h,ES1,3,2,50uM_2h,Exposed,control_shared,GSM536408
+GSM536406,"HNEC cells incubated with 50µM FA for 4 hours, biological rep2",ES1_HNEC_#3-50FA-4h,ES1,3,2,50uM_4h,Exposed,control_shared,GSM536408
+GSM536408,"HNEC cells control group, biological rep2",ES1_HNEC_#3-Co,ES1,3,2,control_shared,Control,control_shared,GSM536408
+GSM536411,"HNEC cells incubated with 100µM FA for 2 hours, biological rep3",ES1_HNEC_#4-100FA-2h,ES1,4,3,100uM_2h,Exposed,control_shared,GSM536412
+GSM536409,"HNEC cells incubated with 50µM FA for 2 hours, biological rep3",ES1_HNEC_#4-50FA-2h,ES1,4,3,50uM_2h,Exposed,control_shared,GSM536412
+GSM536410,"HNEC cells incubated with 50µM FA for 4 hours, biological rep3",ES1_HNEC_#4-50FA-4h,ES1,4,3,50uM_4h,Exposed,control_shared,GSM536412
+GSM536412,"HNEC cells control group, biological rep3",ES1_HNEC_#4-Co,ES1,4,3,control_shared,Control,control_shared,GSM536412
+GSM536414,"HNEC cells incubated with 100µM FA for 24 hours, biological rep1",ES2_HNEC_#1_100FA_24h,ES2,1,1,100uM_24h,Exposed,control_24h,GSM536418
+GSM536413,"HNEC cells incubated with 100µM FA for 4 hours, biological rep1",ES2_HNEC_#1_100FA_4h,ES2,1,1,100uM_4h,Exposed,control_4h,GSM536417
+GSM536416,"HNEC cells incubated with 200µM FA for 24 hours, biological rep1",ES2_HNEC_#1_200FA_24h,ES2,1,1,200uM_24h,Exposed,control_24h,GSM536418
+GSM536415,"HNEC cells incubated with 200µM FA for 4 hours, biological rep1",ES2_HNEC_#1_200FA_4h,ES2,1,1,200uM_4h,Exposed,control_4h,GSM536417
+GSM536418,"HNEC cells control group after 24 hours, biological rep1",ES2_HNEC_#1_Co_24h,ES2,1,1,control_24h,Control,control_24h,GSM536418
+GSM536417,"HNEC cells control group after 4 hours, biological rep1",ES2_HNEC_#1_Co_4h,ES2,1,1,control_4h,Control,control_4h,GSM536417
+GSM536420,"HNEC cells incubated with 100µM FA for 24 hours, biological rep2",ES2_HNEC_#2_100FA_24h,ES2,2,2,100uM_24h,Exposed,control_24h,GSM536424
+GSM536419,"HNEC cells incubated with 100µM FA for 4 hours, biological rep2",ES2_HNEC_#2_100FA_4h_2,ES2,2,2,100uM_4h,Exposed,control_4h,GSM536423
+GSM536422,"HNEC cells incubated with 200µM FA for 24 hours, biological rep2",ES2_HNEC_#2_200FA_24h,ES2,2,2,200uM_24h,Exposed,control_24h,GSM536424
+GSM536421,"HNEC cells incubated with 200µM FA for 4 hours, biological rep2",ES2_HNEC_#2_200FA_4h,ES2,2,2,200uM_4h,Exposed,control_4h,GSM536423
+GSM536424,"HNEC cells control group after 24 hours, biological rep2",ES2_HNEC_#2_Co_24h,ES2,2,2,control_24h,Control,control_24h,GSM536424
+GSM536423,"HNEC cells control group after 4 hours, biological rep2",ES2_HNEC_#2_Co_4h,ES2,2,2,control_4h,Control,control_4h,GSM536423
+GSM536426,"HNEC cells incubated with 100µM FA for 24 hours, biological rep3",ES2_HNEC_#3_100FA_24h,ES2,3,3,100uM_24h,Exposed,control_24h,GSM536430
+GSM536425,"HNEC cells incubated with 100µM FA for 4 hours, biological rep3",ES2_HNEC_#3_100FA_4h,ES2,3,3,100uM_4h,Exposed,control_4h,GSM536429
+GSM536428,"HNEC cells incubated with 200µM FA for 24 hours, biological rep3",ES2_HNEC_#3_200FA_24h,ES2,3,3,200uM_24h,Exposed,control_24h,GSM536430
+GSM536427,"HNEC cells incubated with 200µM FA for 4 hours, biological rep3",ES2_HNEC_#3_200FA_4h,ES2,3,3,200uM_4h,Exposed,control_4h,GSM536429
+GSM536430,"HNEC cells control group after 24 hours, biological rep3",ES2_HNEC_#3_Co_24h,ES2,3,3,control_24h,Control,control_24h,GSM536430
+GSM536429,"HNEC cells control group after 4 hours, biological rep3",ES2_HNEC_#3_Co_4h,ES2,3,3,control_4h,Control,control_4h,GSM536429
+GSM536431,"HNEC cells incubated with 20µM FA  4 times, biological rep1",ES3_HNEC_#1_20FA,ES3,1,1,20uM_x4,Exposed,control_x4,GSM536433
+GSM536432,"HNEC cells incubated with 50µM FA  4 times, biological rep1",ES3_HNEC_#1_50FA,ES3,1,1,50uM_x4,Exposed,control_x4,GSM536433
+GSM536433,"HNEC cells control group FA 4 times, biological rep1",ES3_HNEC_#1_Co,ES3,1,1,control_x4,Control,control_x4,GSM536433
+GSM536434,"HNEC cells incubated with 20µM FA  4 times, biological rep2",ES3_HNEC_#2_20FA,ES3,2,2,20uM_x4,Exposed,control_x4,GSM536436
+GSM536435,"HNEC cells incubated with 50µM FA  4 times, biological rep2",ES3_HNEC_#2_50FA,ES3,2,2,50uM_x4,Exposed,control_x4,GSM536436
+GSM536436,"HNEC cells control group FA 4 times, biological rep2",ES3_HNEC_#2_Co,ES3,2,2,control_x4,Control,control_x4,GSM536436
+GSM536437,"HNEC cells incubated with 20µM FA  4 times, biological rep3",ES3_HNEC_#3_20FA,ES3,3,3,20uM_x4,Exposed,control_x4,GSM536439
+GSM536438,"HNEC cells incubated with 50µM FA  4 times, biological rep3",ES3_HNEC_#3_50FA,ES3,3,3,50uM_x4,Exposed,control_x4,GSM536439
+GSM536439,"HNEC cells control group FA 4 times, biological rep3",ES3_HNEC_#3_Co,ES3,3,3,control_x4,Control,control_x4,GSM536439

@@ -1,0 +1,35 @@
+Duration,Concentration_ppm,Direction,Domain,GO_ID,GO_term,Overlap_n,Selected_gene_n,P_value,BH_FDR
+5 exposure days,6,Up,Cell-cycle/proliferative response,GO:0051301,cell division,19,484,1.77402112435308e-06,0.00334561366161082
+5 exposure days,6,Down,Oxidative/thiol response,GO:0055114,oxidation-reduction process,57,793,5.76743876732445e-08,0.000122961794519357
+4 weeks,6,Up,Cell-cycle/proliferative response,GO:0007067,mitotic nuclear division,13,336,1.28725042779841e-06,0.0013474350852813
+4 weeks,6,Up,Oxidative/thiol response,GO:0006979,response to oxidative stress,12,336,3.36187581935482e-05,0.0119458654114408
+13 weeks,6,Up,Cell-cycle/proliferative response,GO:0007067,mitotic nuclear division,26,1016,1.98200963275058e-08,1.40854817900808e-05
+13 weeks,6,Up,DNA damage/repair,GO:0006281,DNA repair,23,1016,5.36388457155305e-05,0.0114358019065511
+5 exposure days,10,Up,Cell-cycle/proliferative response,GO:0051301,cell division,44,1318,1.44616817125167e-11,1.02774351370285e-08
+5 exposure days,10,Up,DNA damage/repair,GO:0006281,DNA repair,29,1318,8.12384927782455e-06,0.000824764126681997
+5 exposure days,10,Down,Oxidative/thiol response,GO:0055114,oxidation-reduction process,58,795,2.5845761362574e-08,5.51031632250077e-05
+4 weeks,10,Up,Apoptotic response,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage,11,1291,0.00100188666522278,0.0497891876810485
+4 weeks,10,Up,Cell-cycle/proliferative response,GO:0051301,cell division,46,1291,4.22125697243346e-13,8.99971986522813e-10
+4 weeks,10,Up,DNA damage/repair,GO:0006281,DNA repair,26,1291,0.000115820975595487,0.00851483861964064
+4 weeks,10,Up,Inflammation/immune response,GO:0030593,neutrophil chemotaxis,13,1291,0.000193247732261071,0.0128751301618939
+4 weeks,10,Down,Oxidative/thiol response,GO:0055114,oxidation-reduction process,49,685,6.09765352952961e-07,0.00130001973249571
+13 weeks,10,Up,Apoptotic response,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage,14,1901,0.00074919531588508,0.0347235742058042
+13 weeks,10,Up,Cell-cycle/proliferative response,GO:0051301,cell division,50,1901,2.05997317175011e-09,1.09796570054281e-06
+13 weeks,10,Up,DNA damage/repair,GO:0006281,DNA repair,32,1901,0.000472988141126769,0.0252102679220568
+13 weeks,10,Down,Oxidative/thiol response,GO:0055114,oxidation-reduction process,87,1643,1.37579957477312e-05,0.0293320469341629
+5 exposure days,15,Up,Apoptotic response,GO:0043066,negative regulation of apoptotic process,112,2595,1.49428220019637e-06,0.000106193655027289
+5 exposure days,15,Up,Cell-cycle/proliferative response,GO:0042127,regulation of cell proliferation,71,2595,3.63032928638765e-10,7.73986203857848e-08
+5 exposure days,15,Up,DNA damage/repair,GO:0006281,DNA repair,39,2595,0.000963477023828865,0.02388526761399
+5 exposure days,15,Up,Inflammation/immune response,GO:0006954,inflammatory response,94,2595,3.50606737607226e-18,7.47493564578605e-15
+5 exposure days,15,Down,Ciliary/epithelial structure,GO:0060271,cilium morphogenesis,26,2605,1.9784992709958e-07,0.000210908022288152
+5 exposure days,15,Down,Oxidative/thiol response,GO:0055114,oxidation-reduction process,143,2605,5.52933141098824e-10,1.17885345682269e-06
+4 weeks,15,Up,Apoptotic response,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage,19,2947,0.000308030006429266,0.0164179993426799
+4 weeks,15,Up,Cell-cycle/proliferative response,GO:0051301,cell division,65,2947,4.12785901447859e-09,1.76011908377367e-06
+4 weeks,15,Up,DNA damage/repair,GO:0006281,DNA repair,47,2947,4.90582123349167e-05,0.00418368434792169
+4 weeks,15,Up,Inflammation/immune response,GO:0030593,neutrophil chemotaxis,23,2947,1.47732044331464e-05,0.00157482359257341
+4 weeks,15,Down,Ciliary/epithelial structure,GO:0042384,cilium assembly,48,2536,5.82168286248222e-13,1.24118278628121e-09
+4 weeks,15,Down,Oxidative/thiol response,GO:0055114,oxidation-reduction process,125,2536,4.4281059662678e-06,0.00314690730669431
+13 weeks,15,Up,Cell-cycle/proliferative response,GO:0051301,cell division,77,3259,1.038913849632e-12,2.21496432741542e-09
+13 weeks,15,Up,DNA damage/repair,GO:0006974,cellular response to DNA damage stimulus,72,3259,3.6953668984462e-07,5.25234815165821e-05
+13 weeks,15,Down,Ciliary/epithelial structure,GO:0042384,cilium assembly,51,2861,6.71121722152357e-13,1.43083151162883e-09
+13 weeks,15,Down,Oxidative/thiol response,GO:0055114,oxidation-reduction process,136,2861,9.86470072291083e-06,0.0070105139804153

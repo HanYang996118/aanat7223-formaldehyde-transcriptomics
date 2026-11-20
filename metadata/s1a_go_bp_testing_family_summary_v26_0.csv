@@ -1,0 +1,46 @@
+Contrast,Direction,Selected_genes,GO_terms_in_BH_family,GO_FDR05_all_overlaps,GO_FDR05_overlap_ge3,Status
+5d_0.7ppm,All,0,0,0,0,Not tested: no FDR-significant selected genes
+5d_0.7ppm,Up,0,0,0,0,Not tested: no FDR-significant selected genes
+5d_0.7ppm,Down,0,0,0,0,Not tested: no FDR-significant selected genes
+5d_2ppm,All,5,2132,1,1,Tested; BH adjusted across all eligible GO terms
+5d_2ppm,Up,5,2132,1,1,Tested; BH adjusted across all eligible GO terms
+5d_2ppm,Down,0,0,0,0,Not tested: no FDR-significant selected genes
+5d_6ppm,All,1277,2132,0,0,Tested; BH adjusted across all eligible GO terms
+5d_6ppm,Up,484,2132,10,10,Tested; BH adjusted across all eligible GO terms
+5d_6ppm,Down,793,2132,5,5,Tested; BH adjusted across all eligible GO terms
+5d_10ppm,All,2113,2132,23,23,Tested; BH adjusted across all eligible GO terms
+5d_10ppm,Up,1318,2132,38,38,Tested; BH adjusted across all eligible GO terms
+5d_10ppm,Down,795,2132,1,1,Tested; BH adjusted across all eligible GO terms
+5d_15ppm,All,5200,2132,28,28,Tested; BH adjusted across all eligible GO terms
+5d_15ppm,Up,2595,2132,109,109,Tested; BH adjusted across all eligible GO terms
+5d_15ppm,Down,2605,2132,6,6,Tested; BH adjusted across all eligible GO terms
+4w_0.7ppm,All,0,0,0,0,Not tested: no FDR-significant selected genes
+4w_0.7ppm,Up,0,0,0,0,Not tested: no FDR-significant selected genes
+4w_0.7ppm,Down,0,0,0,0,Not tested: no FDR-significant selected genes
+4w_2ppm,All,7,2132,0,0,Tested; BH adjusted across all eligible GO terms
+4w_2ppm,Up,1,2132,0,0,Tested; BH adjusted across all eligible GO terms
+4w_2ppm,Down,6,2132,0,0,Tested; BH adjusted across all eligible GO terms
+4w_6ppm,All,425,2132,6,6,Tested; BH adjusted across all eligible GO terms
+4w_6ppm,Up,336,2132,6,6,Tested; BH adjusted across all eligible GO terms
+4w_6ppm,Down,89,2132,0,0,Tested; BH adjusted across all eligible GO terms
+4w_10ppm,All,1976,2132,22,22,Tested; BH adjusted across all eligible GO terms
+4w_10ppm,Up,1291,2132,43,43,Tested; BH adjusted across all eligible GO terms
+4w_10ppm,Down,685,2132,1,1,Tested; BH adjusted across all eligible GO terms
+4w_15ppm,All,5483,2132,21,21,Tested; BH adjusted across all eligible GO terms
+4w_15ppm,Up,2947,2132,57,57,Tested; BH adjusted across all eligible GO terms
+4w_15ppm,Down,2536,2132,4,4,Tested; BH adjusted across all eligible GO terms
+13w_0.7ppm,All,0,0,0,0,Not tested: no FDR-significant selected genes
+13w_0.7ppm,Up,0,0,0,0,Not tested: no FDR-significant selected genes
+13w_0.7ppm,Down,0,0,0,0,Not tested: no FDR-significant selected genes
+13w_2ppm,All,1,2132,0,0,Tested; BH adjusted across all eligible GO terms
+13w_2ppm,Up,1,2132,0,0,Tested; BH adjusted across all eligible GO terms
+13w_2ppm,Down,0,0,0,0,Not tested: no FDR-significant selected genes
+13w_6ppm,All,1793,2132,4,4,Tested; BH adjusted across all eligible GO terms
+13w_6ppm,Up,1016,2132,27,27,Tested; BH adjusted across all eligible GO terms
+13w_6ppm,Down,777,2132,0,0,Tested; BH adjusted across all eligible GO terms
+13w_10ppm,All,3544,2132,16,16,Tested; BH adjusted across all eligible GO terms
+13w_10ppm,Up,1901,2132,47,47,Tested; BH adjusted across all eligible GO terms
+13w_10ppm,Down,1643,2132,1,1,Tested; BH adjusted across all eligible GO terms
+13w_15ppm,All,6120,2132,15,15,Tested; BH adjusted across all eligible GO terms
+13w_15ppm,Up,3259,2132,57,57,Tested; BH adjusted across all eligible GO terms
+13w_15ppm,Down,2861,2132,3,3,Tested; BH adjusted across all eligible GO terms

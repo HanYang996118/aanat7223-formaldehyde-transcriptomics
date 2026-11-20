@@ -1,0 +1,7 @@
+Panel,Source,Key_values
+A,V26.0 15-contrast Data S2 audit,"0.7 ppm: 0 genes at all durations; 2 ppm: 5, 7, 1; 6–15 ppm: exact counts shown in heatmap"
+B,"V26.0 Table3_GO_Display derived from complete 2,132-term GO-BP BH family",34 selected term rows; size encodes -log10 BH-FDR; up/down direction preserved
+C,"V26.0 Data S15: 11,176 matched genes per comparison",Moderated-t Spearman rho -0.206 and -0.202; signed-log2FC sensitivity -0.247 and -0.249
+Human biopsies,GSE27263 source-study analysis,No platform-wide FDR-significant probe set under analysed conditions; post-program biopsies labelled by GEO lag since 0.7-ppm condition
+Human cells,GSE21477 source-study analysis,Primary human nasal epithelial-cell culture; separate treatment-vs-control contrasts
+Rat sampling,GSM570620 and GSM1150937 source-level sampling descriptions,Level II nasal region vs maxilloturbinate; anatomical equivalence not assumed

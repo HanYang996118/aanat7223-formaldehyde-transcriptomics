@@ -1,0 +1,4 @@
+GSE23179 affyPLM RLE/NUSE reconstruction
+72/72 unique GSM-matched CEL files; 31,099 probe sets x 72 arrays.
+Exploratory flags: 13
+Flags are manual-review aids only; no array excluded.

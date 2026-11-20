@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "Please cite this software release and the associated manuscript. Cite the version-specific Zenodo DOI after it has been minted and verified."
+title: "AANAT7223: Formaldehyde transcriptomics analysis code and provenance materials"
+version: "0.1.0"
+license: MIT
+abstract: "Curated analysis scripts and provenance metadata supporting a cross-dataset re-analysis of public formaldehyde-associated nasal epithelial transcriptomic datasets."
+keywords:
+  - formaldehyde
+  - transcriptomics
+  - nasal epithelium
+  - toxicogenomics
+  - GEO
+  - limma
+  - gene set enrichment
+  - reproducible research
+authors:
+  - family-names: Yang
+    given-names: Han
+    affiliation: "Guangdong Provincial Hospital of Chinese Medicine, Guangzhou 510120, Guangdong, China; The Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou 510120, Guangdong, China"
+  - family-names: Guo
+    given-names: Rusong
+    affiliation: "Guangdong Provincial Hospital of Chinese Medicine, Guangzhou 510120, Guangdong, China; The Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou 510120, Guangdong, China"
+  - family-names: Yan
+    given-names: Yuan
+    affiliation: "The Third Affiliated Hospital, Sun Yat-sen University, Guangzhou 510700, China"
+  - family-names: Lin
+    given-names: Zishuo
+    affiliation: "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou 510515, Guangdong, China"
+  - family-names: Qiu
+    given-names: Mingwang
+    affiliation: "Guangdong Provincial Hospital of Chinese Medicine, Guangzhou 510120, Guangdong, China; The Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou 510120, Guangdong, China"
+  - family-names: Li
+    given-names: Xiaohui
+    affiliation: "Guangdong Provincial Hospital of Chinese Medicine, Guangzhou 510120, Guangdong, China; The Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou 510120, Guangdong, China"
+  - family-names: Zheng
+    given-names: Kai
+    affiliation: "Guangdong Provincial Hospital of Chinese Medicine, Hainan Hospital, Guangzhou University of Chinese Medicine, Haikou 570100, Hainan, China; Hainan Traditional Chinese Medicine Hospital, Hainan Medical University, Haikou 570203, Hainan, China"
+  - family-names: Fan
+    given-names: Zhiyong
+    affiliation: "Guangdong Provincial Hospital of Chinese Medicine, Guangzhou 510120, Guangdong, China; The Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou 510120, Guangdong, China"
+  - family-names: Yuan
+    given-names: Shiguo
+    affiliation: "Guangdong Provincial Hospital of Chinese Medicine, Hainan Hospital, Guangzhou University of Chinese Medicine, Haikou 570100, Hainan, China; Hainan Traditional Chinese Medicine Hospital, Hainan Medical University, Haikou 570203, Hainan, China"
+  - family-names: Liu
+    given-names: Hongwen
+    affiliation: "Department of Traditional Chinese Orthopedics and Traumatology, Center for Orthopedic Surgery, The Third Affiliated Hospital of Southern Medical University, Guangzhou 510630, Guangdong, China; Department of Traditional Chinese Medicine, Panzhihua Central Hospital, Panzhihua 617067, Sichuan, China"
