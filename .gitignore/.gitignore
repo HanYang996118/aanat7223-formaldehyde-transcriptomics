@@ -1,0 +1,38 @@
+
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Credentials and local environment
+.Renviron
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Raw or regenerated research data
+*.CEL
+*.CEL.gz
+*.cel
+*.cel.gz
+*.RDS
+*.rds
+*.rda
+*.RData
+*.zip
+*.tar
+*.tar.gz
+rawCEL/
+RMA_expression/
+all_feature_statistics/
+results/
+
+# Logs and operating-system files
+*.log
+.DS_Store
+Thumbs.db
+
